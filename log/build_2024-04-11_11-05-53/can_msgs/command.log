@@ -1,1 +1,0 @@
-Invoking command in '/home/hisa/ros2_ws/build/can_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hisa/ros2_ws/src/ros2can_bridge/ros2socketcan_bridge -DCMAKE_INSTALL_PREFIX=/home/hisa/ros2_ws/install/can_msgs
