@@ -1,0 +1,6 @@
+{
+  "package_name": "can_msgs_1",
+  "non_idl_tuples": [
+    "/home/hisa/ros2_ws/src/ros2can_bridge/can_msgs_1:msg/Frame.msg"
+  ]
+}
